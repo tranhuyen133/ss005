@@ -1,0 +1,67 @@
+<mxfile host="Electron" modified="2023-11-12T19:28:04.009Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="o5LzK0Sf5v3XLFgrXTTg" version="22.0.3" type="device">
+  <diagram name="Page-1" id="njqikQ1hpzhs_YireD56">
+    <mxGraphModel dx="1050" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5LEjlp8_lmRPMMycolhk-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5LEjlp8_lmRPMMycolhk-1" target="5LEjlp8_lmRPMMycolhk-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5LEjlp8_lmRPMMycolhk-1" value="start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="10" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5LEjlp8_lmRPMMycolhk-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5LEjlp8_lmRPMMycolhk-2" target="5LEjlp8_lmRPMMycolhk-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5LEjlp8_lmRPMMycolhk-2" value="money,tip&amp;nbsp; money" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5LEjlp8_lmRPMMycolhk-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5LEjlp8_lmRPMMycolhk-3" target="5LEjlp8_lmRPMMycolhk-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5LEjlp8_lmRPMMycolhk-3" value="money&amp;lt;=100" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="230" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="5LEjlp8_lmRPMMycolhk-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5LEjlp8_lmRPMMycolhk-4" target="5LEjlp8_lmRPMMycolhk-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5LEjlp8_lmRPMMycolhk-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5LEjlp8_lmRPMMycolhk-4" target="5LEjlp8_lmRPMMycolhk-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5LEjlp8_lmRPMMycolhk-4" value="money&amp;lt;=300" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5LEjlp8_lmRPMMycolhk-5" value="money &amp;gt;300" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="500" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5LEjlp8_lmRPMMycolhk-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5LEjlp8_lmRPMMycolhk-6" target="5LEjlp8_lmRPMMycolhk-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5LEjlp8_lmRPMMycolhk-6" value="tip money" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5LEjlp8_lmRPMMycolhk-7" value="end" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="760" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5LEjlp8_lmRPMMycolhk-8" value="tip money = money*0.05" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5LEjlp8_lmRPMMycolhk-9" value="tip money = money *0.1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5LEjlp8_lmRPMMycolhk-10" value="tip money = money*0.2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5LEjlp8_lmRPMMycolhk-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.453;entryY=0.11;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5LEjlp8_lmRPMMycolhk-3" target="5LEjlp8_lmRPMMycolhk-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5LEjlp8_lmRPMMycolhk-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.043;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5LEjlp8_lmRPMMycolhk-5" target="5LEjlp8_lmRPMMycolhk-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5LEjlp8_lmRPMMycolhk-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.447;entryY=0.04;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5LEjlp8_lmRPMMycolhk-5" target="5LEjlp8_lmRPMMycolhk-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
